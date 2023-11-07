@@ -11,8 +11,9 @@ public class Geometry {
 
         Rectangle.printRectangleArea(3.0, 5.0);
 
-        Trangle.printTrunglePerimetr(14,12,12);
+        Trangle.printTrunglePerimetr(14.0,12.0,12.0);
         Trangle.printTrungleArea(14.0,12.0,12.0);
+        Trangle.printTrungleArea(1.0,16.0,12.0);
     }
 
 }
