@@ -9,11 +9,7 @@ public class TrungleTests {
     @Test
     void CanCalculateArea() {
         double result = trungleArea(12, 13, 14);
-        Assertions.assertEquals((!="NaN"),result);
+        Assertions.assertEquals(72.30793524918272, result);
     }
 
-    @Test
-    void ValidTrungle() {
-
-    }
 }
